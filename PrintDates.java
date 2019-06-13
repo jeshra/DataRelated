@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 class PrintDates {
     public static void main(String[] args) {
-        System.out.println(printDateRangeForNumberOfDays("2019-02-31", 15));
+        System.out.println(printDateRangeForNumberOfDays("2019-02-28", 15));
         /**
          * [2019-03-31, 2019-04-01, 2019-04-02, 2019-04-03, 2019-04-04, 2019-04-05, 2019-04-06, 2019-04-07, 2019-04-08, 2019-04-09, 2019-04-10, 2019-04-11, 2019-04-12, 2019-04-13, 2019-04-14]
          */
